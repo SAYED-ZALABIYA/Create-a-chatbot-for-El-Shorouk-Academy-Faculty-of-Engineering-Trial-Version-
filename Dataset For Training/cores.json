@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "question": "ما هي المقررات",
+            "language": "ar"
+        },
+        {
+            "question": "ما المقررات المتاحة",
+            "language": "ar"
+        },
+        {
+            "question": "أريد معرفة المقررات",
+            "language": "ar"
+        },
+        {
+            "question": "ما هي المواد الدراسية",
+            "language": "ar"
+        },
+        {
+            "question": "What are the courses",
+            "language": "en"
+        },
+        {
+            "question": "List the available courses",
+            "language": "en"
+        },
+        {
+            "question": "Show me the subjects",
+            "language": "en"
+        },
+        {
+            "question": "What subjects are available",
+            "language": "en"
+        }
+    ]
+}

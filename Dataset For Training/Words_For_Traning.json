@@ -1,0 +1,74 @@
+{
+    "level_1": [
+        "Differentiation and Integration",
+        "Properties of matter and Heat",
+        "Statics",
+        "Engineering Chemistry",
+        "Projection and Engineering Drawing",
+        "Technical English language",
+        "Computer Programming skills"
+    ],
+    "level_2": [
+        "Advanced analysis and Analytic geometry",
+        "Electricity and Magnetism",
+        "Dynamic",
+        "Production Technology",
+        "Projection and Computer drawing",
+        "University Requirment (1)",
+        "Faculty Requirement (1)"
+    ],
+    "level_3": [
+        "Engineer math",
+        "Bio-Physics",
+        "Bio Mechenical Eng.",
+        "Biochemistry",
+        "Physiology",
+        "Bio Computing (1)",
+        "Int. Biomedical Eng."
+    ],
+    "level_4": [
+        "Anatomy",
+        "Biology",
+        "Bio Measurements",
+        "Electronic Bio-Dev.",
+        "BIO-Signal & System (1)",
+        "Int to Clinical Engineering",
+        "Project Training Course (1)"
+    ],
+    "level_5": [
+        "Research and Analysis Skills",
+        "Bio . Signals & Systems (2)",
+        "Bio Computing (2)",
+        "Bioelectronics  (1)",
+        "Control of bio instrumention (1)",
+        "Med. Labs Equipment",
+        "Introduction to bio informatices"
+    ],
+    "level_6": [
+        "Communication and Presentation Skills",
+        "Business Management.",
+        "Bioelectronics ( 2)",
+        "Control of bio instrumention (2)",
+        "Basic Medical Equipment",
+        "Concentration Elective Course(1)",
+        "Elective Specialized Course (1)"
+    ],
+    "levle_7": [
+        "Med. Imaging Equipment (1)",
+        "Digital Electronic Syst. (1)",
+        "System Engineering",
+        "Concentration Elective Course(2)",
+        "Elective Specialized Course (2)",
+        "Project Training Course (2)",
+        "Graduation . Project (1)"
+    ],
+    "level_8": [
+        "Med. Imaging Equipment (2)",
+        "Digital Electronic Syst. (2)",
+        "Artificial Intelligence in Bio",
+        "Computer Networks",
+        "Concentration Elective Course(3",
+        "Elective Specialized Course (3)",
+        "Graduation. Project (2)"
+    ]
+}

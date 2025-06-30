@@ -1,0 +1,176 @@
+{
+    "greetings": [
+        {
+            "question": "مرحبا",
+            "answer": " 🚀😊أهلاً وسهلاً! كيف يمكنني مساعدتك اليوم؟"
+        },
+        {
+            "question": "السلام عليكم",
+            "answer": "🚀😊 وعليكم السلام! كيف يمكنني مساعدتك؟"
+        },
+        {
+            "question": "اهلا",
+            "answer": "🚀😊 مرحبًا بك! أنا هنا للمساعدة."
+        },
+        {
+            "question": "صباح الخير",
+            "answer": "🚀😊 صباح النور! كيف يمكنني مساعدتك اليوم؟"
+        },
+        {
+            "question": "مساء الخير",
+            "answer": "🚀😊 مساء النور! كيف يمكنني مساعدتك؟"
+        },
+        {
+            "question": "مرحبًا",
+            "answer": "🚀😊 مرحبًا بك! كيف يمكنني أن أكون عوناً لك اليوم؟"
+        },
+        {
+            "question": "هلا",
+            "answer": "🚀😊 هلا بك! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "تحياتي",
+            "answer": "🚀😊 تحياتي لك! أنا هنا لخدمتك."
+        },
+        {
+            "question": "كيف الحال",
+            "answer": "🚀😊 بخير، شكرًا لسؤالك! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "كيفك",
+            "answer": "🚀😊 أنا بخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+            "question": "مرحبا عزيزي",
+            "answer": "🚀😊 أهلاً بك عزيزي! كيف أستطيع خدمتك؟"
+        },
+        {
+            "question": "أهلا وسهلا",
+            "answer": "🚀😊 أهلاً وسهلاً بك! أنا هنا للمساعدة."
+        },
+        {
+            "question": "سلام",
+            "answer": "🚀😊 سلام عليكم! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "تحية طيبة",
+            "answer": "🚀😊 تحية طيبة! كيف يمكنني مساعدتك؟"
+        },
+        {
+            "question": "أهلا بكم",
+            "answer": "🚀😊 أهلاً بك! كيف أساعدك اليوم؟"
+        },
+        {
+            "question": "يا مرحبا",
+            "answer": "🚀😊 يا مرحبًا وسهلًا! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "صباح النور",
+            "answer": "🚀😊 صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+            "question": "مساء النور",
+            "answer": "🚀😊 مساء الخير! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "أسعد الله صباحك",
+            "answer": "🚀😊 صباحك سعيد! كيف يمكنني أن أكون في خدمتك؟"
+        },
+        {
+            "question": "كيف حالك اليوم",
+            "answer": "🚀😊 بخير، شكرًا على السؤال! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": " عمي و عم البلد ",
+            "answer": "🚀😊 حبيب قلبي ، ! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "ازيك يا سطا ",
+            "answer": "🚀😊 بخير، شكرًا على السؤال! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "ازيك ",
+            "answer": "🚀😊 بخير، شكرًا على السؤال! كيف أستطيع مساعدتك؟"
+        },
+        {
+            "question": "hello",
+            "answer": "Hello! How can I assist you today 🚀😊?"
+        },
+        {
+            "question": "hi",
+            "answer": "Hi there! How can I help you 🚀😊?"
+        },
+        {
+            "question": "good morning",
+            "answer": "Good morning! How can I be of service today 🚀😊?"
+        },
+        {
+            "question": "good afternoon",
+            "answer": "Good afternoon! What can I do for you today 🚀😊?"
+        },
+        {
+            "question": "good evening",
+            "answer": "Good evening! How may I assist you 🚀😊?"
+        },
+        {
+            "question": "greetings",
+            "answer": "Greetings! I'm here to help. 🚀😊"
+        },
+        {
+            "question": "how are you",
+            "answer": "I'm fine, thank you! How can I assist you? 🚀😊"
+        },
+        {
+            "question": "hey",
+            "answer": "Hey! How can I help? 🚀😊"
+        },
+        {
+            "question": "hiya",
+            "answer": "Hiya! What can I do for you? 🚀😊"
+        },
+        {
+            "question": "what's up",
+            "answer": "Not much, I'm here to help you! 🚀😊"
+        },
+        {
+            "question": "good day",
+            "answer": "Good day! How can I assist you? 🚀😊"
+        },
+        {
+            "question": "morning",
+            "answer": "Good morning! How can I assist you? 🚀😊"
+        },
+        {
+            "question": "evening",
+            "answer": "Good evening! How can I be of help? 🚀😊"
+        },
+        {
+            "question": "hi there",
+            "answer": "Hello! How can I assist you today? 🚀😊"
+        },
+        {
+            "question": "hey there",
+            "answer": "Hi there! What can I do for you? 🚀😊"
+        },
+        {
+            "question": "how's it going",
+            "answer": "It's going well, thank you! How can I help? 🚀😊"
+        },
+        {
+            "question": "pleased to meet you",
+            "answer": "Pleased to meet you too! How can I assist? 🚀😊"
+        },
+        {
+            "question": "good to see you",
+            "answer": "Good to see you as well! How can I help? 🚀😊"
+        },
+        {
+            "question": "nice to meet you",
+            "answer": "Nice to meet you! How can I assist? 🚀😊"
+        },
+        {
+            "question": "howdy",
+            "answer": "Howdy! How can I help? 🚀😊"
+        }
+    ]
+}
